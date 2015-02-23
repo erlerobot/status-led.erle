@@ -1,0 +1,10 @@
+name: status-led.erle
+vendor: Erle Robotics <contact@erlerobot.com>
+icon: meta/erle-small.png
+version: 1.0
+architecture: armhf
+binaries:
+  - name: src/script.sh
+# - start: src/script.sh
+# - description: a test code that switches on and off one of the status LEDs
+maintainer: Víctor Mayoral <victor@erlerobot.com>
